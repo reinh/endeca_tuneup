@@ -1,4 +1,4 @@
-if defined? Endeca && defined? Endeca::Document
+if defined? FiveRuns && defined? Endeca && defined? Endeca::Document
   # Tuneup instrumentation
   class << Endeca::Document
     def all_with_tuneup(*args)
