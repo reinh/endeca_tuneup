@@ -5,10 +5,10 @@ Adds Tuneup instrumentation for Endeca calls that correctly report them in the
 model layer
 
 
-Example
+Install
 =======
 
-Example goes here.
+script/plugin install git://github.com/primedia/endeca_tuneup.git
 
 
 Copyright (c) 2009 Rein Henrichs, released under the MIT license
